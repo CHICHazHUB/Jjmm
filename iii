@@ -1,0 +1,14 @@
+getgenv().MoneyPrinter = {
+    maybeCPUReducer = false,
+    autoBalloons = true,
+    autoPresents = true,
+    toolName = "Slingshot",
+
+    serverHopper = true,
+    avoidCooldown = 0,
+    minServerTime = 2,
+
+    sendWeb = true,
+    webURL = "https://discord.com/api/webhooks/1204893254831706123/-f9ZMnoYxKoI0NUOeFBRwFHdEVB-ImplkDbiy1neWtsBXRrSG-ZTASJH0W1-n82jQMWG"
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jayzekituze/Utomel/409f888639045f8a477b9f979fc22a42e4e1ef4b/utobalon"))
