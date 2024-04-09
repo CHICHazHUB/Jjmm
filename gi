@@ -12,6 +12,6 @@ getgenv().MoneyPrinter = {
     sendWeb = true,
     webURL = "https://discord.com/api/webhooks/1204893254831706123/-f9ZMnoYxKoI0NUOeFBRwFHdEVB-ImplkDbiy1neWtsBXRrSG-ZTASJH0W1-n82jQMWG",
 
-    maybeCPUReducer = false,
+    maybeCPUReducer = true,
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AwesomeDudePerfect/psx-gem-farm/main/autoBalloon"))()
