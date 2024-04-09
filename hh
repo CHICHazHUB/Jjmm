@@ -1,7 +1,3 @@
-if not game:IsLoaded() then
-    game.Loaded:Wait()
-end
-
 local lighting = game.Lighting
 local terrain = game.Workspace.Terrain
 terrain.WaterWaveSize = 0
