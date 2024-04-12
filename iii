@@ -6,7 +6,7 @@ getgenv().MoneyPrinter = {
 
     serverHopper = true,
     avoidCooldown = 0,
-    minServerTime = 2,
+    minServerTime = 60,
 
     sendWeb = true,
     webURL = "https://discord.com/api/webhooks/1204893254831706123/-f9ZMnoYxKoI0NUOeFBRwFHdEVB-ImplkDbiy1neWtsBXRrSG-ZTASJH0W1-n82jQMWG"
